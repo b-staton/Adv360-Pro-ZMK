@@ -78,7 +78,7 @@
             >;
         };
 
-        layer_Layer__4 {
+        layer_altium {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
