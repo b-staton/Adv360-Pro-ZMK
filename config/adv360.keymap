@@ -81,10 +81,20 @@
         layer_altium {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans               &kp                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+            >;
+        };
+
+        layer_Layer__5 {
+            bindings = <
+     &trans  &trans  &trans  &trans  &trans  &trans                &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+     &trans  &trans  &trans  &trans  &trans  &trans                   &bl                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &caps_word  &trans  &trans  &trans  &trans  &trans            &caps_word  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+     &trans  &trans  &trans  &trans  &trans  &trans                                &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+     &trans  &trans  &trans  &trans  &trans                        &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
